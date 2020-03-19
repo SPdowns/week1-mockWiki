@@ -1,0 +1,10 @@
+#content {
+  margin: 15px;
+  position: absolute;
+  position: static;
+  border: 2px solid #73AD21;
+  top: 0;
+  width: 10em;
+  left: 0;
+  font-size: inherit;
+}
