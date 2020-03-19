@@ -1,10 +1,16 @@
 #content {
-  margin: 15px;
-  position: absolute;
-  position: static;
+  margin: 10px;
+  /* position: absolute; */
   border: 2px solid #73AD21;
   top: 0;
   width: 10em;
   left: 0;
   font-size: inherit;
+}
+
+div#featured {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
 }
